@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">I am a UX Designer and Java developer</h3>
 
-- 🌱 I’m currently learning **Java, Typescript**
+<p align= "center"> - 🌱 I’m currently learning **Java, Typescript** </p>
+<p align= "center"> - 🌱 I’m currently pimping up my portfolio </p>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
